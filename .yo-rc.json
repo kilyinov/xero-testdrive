@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "au.com.community.library",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "CommUnityLibrary",
+    "packageName": "au.com.community.library",
+    "packageFolder": "au/com/community/library",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDU2ZDc4NDlhMTM5Y2NmYTc5MjVkYTIxMjlkNTQwZTEzMzI3NjczNWIxNWZmYmEwZDIwNTBlNTg0MDQwYjU4MjQwYWZjMTY1NDQzOWIzZjcyNjljNjc2YjVhMzFmNThhZGM2NmI5ZTgyMjY3NzY2MzI4NDg5YjE3YjJlODFiZmI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1627184201661,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn", "el", "hi", "es"],
+    "blueprints": []
+  }
+}
